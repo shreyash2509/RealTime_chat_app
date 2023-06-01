@@ -11,7 +11,3 @@
 ## Now start the server by npm start
 ## Now start the react by npm start
 ## And the chat application would be running successfully by now.
-
-## License: Information on the app's open-source license and any attribution requirements.
-
-## It's always good to have a clear and concise README that will help users understand how to use the app and troubleshoot any issues they may encounter.
